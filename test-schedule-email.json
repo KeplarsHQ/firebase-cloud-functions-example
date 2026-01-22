@@ -1,0 +1,9 @@
+{
+  "to": ["user@example.com"],
+  "from": "noreply@yourdomain.com",
+  "fromName": "Your Company",
+  "subject": "Scheduled: Your Weekly Newsletter",
+  "html": "<h1>Weekly Newsletter</h1><p>This email was scheduled in advance and will be sent at the specified time.</p>",
+  "scheduled_at": "2026-01-25T10:00:00",
+  "timezone": "America/New_York"
+}

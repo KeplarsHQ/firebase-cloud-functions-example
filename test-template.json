@@ -1,0 +1,11 @@
+{
+  "to": ["user@example.com"],
+  "from": "noreply@yourdomain.com",
+  "fromName": "Your Company Name",
+  "template_id": "your_template_id_here",
+  "params": {
+    "user_name": "John Doe",
+    "current_year": "2026"
+  },
+  "delivery_type": "instant"
+}

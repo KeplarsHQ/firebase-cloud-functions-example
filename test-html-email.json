@@ -1,0 +1,9 @@
+{
+  "to": ["user@example.com"],
+  "from": "noreply@yourdomain.com",
+  "fromName": "Your Company",
+  "subject": "Welcome to our service!",
+  "html": "<h1>Welcome!</h1><p>Thanks for signing up. We're excited to have you on board.</p>",
+  "is_html": true,
+  "delivery_type": "instant"
+}

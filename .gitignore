@@ -1,0 +1,42 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+functions/.env
+functions/.env.local
+
+# Firebase
+.firebase/
+.firebaserc.local
+firebase-debug.log
+firebase-debug.*.log
+ui-debug.log
+
+# Compiled JavaScript files
+functions/lib/
+functions/**/*.js
+functions/**/*.js.map
+
+# Node modules
+node_modules/
+functions/node_modules/
+
+# IDE
+.vscode/
+.idea/
+.claude/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Test files (temporary)
+test-*.js
+test-payload.json
