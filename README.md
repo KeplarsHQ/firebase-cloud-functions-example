@@ -1,6 +1,6 @@
 # Keplars + Firebase Cloud Functions Integration
 
-Hey! 👋 This is a working example of how to send emails using Keplars with Firebase Cloud Functions. I built this because setting up transactional emails can be a pain, and I wanted to make it as simple as possible.
+This is a working example of how to send emails using Keplars with Firebase Cloud Functions. I built this because setting up transactional emails can be a pain, and I wanted to make it as simple as possible.
 
 ## What is this?
 
@@ -421,13 +421,13 @@ The function only accepts POST requests. Check your HTTP method.
 
 ## Important stuff to know
 
-⚠️ **Two ways to send emails**:
+**Two ways to send emails**:
 - **Template-based**: Create reusable templates in Keplars dashboard with dynamic variables
 - **Raw content**: Send custom subject + body/html directly without creating templates
 
-⚠️ **Connect your email provider** - Before you can send emails, you need to connect Gmail or Outlook in your Keplars account settings.
+**Connect your email provider** - Before you can send emails, you need to connect Gmail or Outlook in your Keplars account settings.
 
-⚠️ **Rate limits** - Check your Keplars plan for rate limits. The free tier has generous limits, but you might hit them if you're sending thousands of emails.
+**Rate limits** - Check your Keplars plan for rate limits. The free tier has generous limits, but you might hit them if you're sending thousands of emails.
 
 ## Project structure
 
@@ -475,4 +475,4 @@ MIT - Use this however you want. No strings attached.
 
 ---
 
-Built with 💙 by the Keplars team
+Built by the Keplars team
